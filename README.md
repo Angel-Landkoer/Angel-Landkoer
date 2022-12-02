@@ -2,7 +2,7 @@
 
 <h3 align="center" >FrontEnd | React Developer  👨‍💻</h3>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center">
 	<a href="https://www.linkedin.com/in/angel-luis-landkoer-b41698236/"><img alt="logo linkedIn"	src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 </div>
 
@@ -27,8 +27,7 @@
 ---
 
 ## My Statitics 📊
-<div style="display: flex; justify-content: center;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Landkoer)](https://github.com/Angel-Landkoer?tab=repositories)
 
-</div>
 ---
