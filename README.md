@@ -16,6 +16,7 @@
 ## Highlighted Projects 📂📈
 - [Hotel-Luxury](https://github.com/Angel-Landkoer/hotel-Luxury "Hotel-Luxury")
 - [Panda-NFT](https://github.com/Angel-Landkoer/Panda-NFT "Panda-NFT")
+- [Bindle](https://github.com/Angel-Landkoer/Bindle "Bindle")
 
 ---
 
