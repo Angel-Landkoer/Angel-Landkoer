@@ -21,9 +21,6 @@
 ---
 
 ## My Stack Technoligies 👨‍💻🔥
----
-
-## My Stack Technoligies 👨‍💻🔥
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,redux,nodejs,expressjs,sqlite,git,linux" />
 
 ---
